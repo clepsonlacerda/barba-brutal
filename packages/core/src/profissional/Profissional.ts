@@ -1,5 +1,5 @@
 export default interface Profissional {
-  id: string;
+  id: number;
   nome: string;
   descricao: string;
   imagemUrl: string;
